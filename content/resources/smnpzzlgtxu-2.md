@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-008-digital-signal-processing-spring-2011/b33de328d07855049e7852ebaba64d2f_SMnPZzlgtXU.vtt
+file: /media/courses/res-6-008-digital-signal-processing-spring-2011/b33de328d07855049e7852ebaba64d2f_SMnPZzlgtXU.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: b33de328-d078-5504-9e78-52ebaba64d2f

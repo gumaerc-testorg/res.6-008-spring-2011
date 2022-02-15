@@ -2,8 +2,12 @@
 content_type: resource
 description: This resource contains information related to discrete-time signals and
   systems, part 2.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-6-008-digital-signal-processing-spring-2011/4a15c19f5f4639dd54d9f07094f3ef24_MITRES_6_008S11_lec03.pdf
+file: /media/courses/res-6-008-digital-signal-processing-spring-2011/4a15c19f5f4639dd54d9f07094f3ef24_MITRES_6_008S11_lec03.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: MITRES_6_008S11_lec03.pdf
 uid: 4a15c19f-5f46-39dd-54d9-f07094f3ef24

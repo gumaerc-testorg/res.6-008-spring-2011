@@ -2,14 +2,23 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: SupplementalResourceSection
+related_resources_text: Discrete-Time Signals and Systems, Part 1 (![This resource
+  may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_008s11_lec02-1))
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Discrete-Time Signals and Systems, Part 1'
 uid: 3c54b2e2-3f5a-897c-bee4-f090666b233a
 video_files:
   archive_url: http://www.archive.org/download/MITRES.6-008/MITRES6_008_lec02_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-008-digital-signal-processing-spring-2011/34efd5d016695cba8cc7547cd35b2b4a_TuCYGjp7WKU.vtt
+  video_captions_file: /courses/res-6-008-digital-signal-processing-spring-2011/34efd5d016695cba8cc7547cd35b2b4a_TuCYGjp7WKU.vtt
   video_thumbnail_file: https://img.youtube.com/vi/TuCYGjp7WKU/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-6-008-digital-signal-processing-spring-2011/3cf3faafccd8d4b9e42edc574386fecc_TuCYGjp7WKU.pdf
+  video_transcript_file: /courses/res-6-008-digital-signal-processing-spring-2011/3cf3faafccd8d4b9e42edc574386fecc_TuCYGjp7WKU.pdf
 video_metadata:
   youtube_id: TuCYGjp7WKU
 ---
