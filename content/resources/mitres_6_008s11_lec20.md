@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: SupplementalResourceSection
+parent_uid: d0980677-5415-3344-6fb0-bae3bb5be0e3
 resourcetype: Document
 title: MITRES_6_008S11_lec20.pdf
 uid: a4b64d04-c6bc-e66d-969c-28432cdc8dce

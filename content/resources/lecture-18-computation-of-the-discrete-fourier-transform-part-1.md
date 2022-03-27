@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Computation of the Discrete Fourier Transform, Part 1 (!
   resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_008s11_lec18-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Computation of the Discrete Fourier Transform, Part 1'
 uid: b909330a-9477-2374-a9d1-25b7ebd1870a
 video_files:

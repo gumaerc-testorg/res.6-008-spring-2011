@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Design of FIR Digital Filters (![This resource may not r
   correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_008s11_lec17-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Design of FIR Digital Filters'
 uid: 968adeab-1291-c57f-e0e6-7ac385b514d9
 video_files:

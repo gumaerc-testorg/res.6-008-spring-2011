@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: The Discrete Fourier Series ([PDF](resources/mitres_6_008s11_lec08-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: The Discrete Fourier Series'
 uid: 95fe2f09-600c-dd29-2eb4-1e196c4d6888
 video_files:

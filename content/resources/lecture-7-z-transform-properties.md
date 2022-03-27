@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: z-Transform Properties (![This resource may not render c
   in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_008s11_lec07-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: z-Transform Properties'
 uid: e942e4e2-81ec-1133-760b-c5a48de2d8eb
 video_files:

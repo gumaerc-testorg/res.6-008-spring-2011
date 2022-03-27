@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Demonstration 2: Sampling, Aliasing, and Frequency Response, Part 2'
 uid: fccc67d0-8dda-d9de-3e4b-638b220338b6
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Discrete-Time Signals and Systems, Part 2 ([PDF](resources/mitres_6_008s11_lec03-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Discrete-Time Signals and Systems, Part 2'
 uid: cbee2b0b-4731-65c2-5cd6-f7c8919f35eb
 video_files:

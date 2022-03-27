@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: The z-Transform ([PDF](resources/mitres_6_008s11_lec05-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: The z-Transform'
 uid: e0411f9d-ab21-ab2d-6989-8c1ab5fab0c2
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Circular Convolution ([PDF](resources/mitres_6_008s11_lec10-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Circular Convolution'
 uid: beb398bc-1fe7-67e7-7ddd-11c3f1e945a1
 video_files:

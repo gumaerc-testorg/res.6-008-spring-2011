@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: Design of IIR Digital Filters, Part 1 ([PDF](resources/mitres_6_008s11_lec14-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 14: Design of IIR Digital Filters, Part 1'
 uid: 839a64db-7fb1-8dcc-a850-23c4ccd0da51
 video_files:

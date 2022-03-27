@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ related_resources_text: Network Structures for Infinite Impulse Response (IIR) S
   (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_008s11_lec12-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 12: Network Structures for Infinite Impulse Response (IIR) Systems'
 uid: 947bb2fb-248d-5e3a-7fd1-13ebea673243
 video_files:
