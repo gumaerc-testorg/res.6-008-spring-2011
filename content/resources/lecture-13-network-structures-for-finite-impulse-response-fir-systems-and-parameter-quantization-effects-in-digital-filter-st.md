@@ -1,19 +1,19 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: Network Structures for Finite Impulse Response (FIR) Systems
   and Parameter Quantization Effects in Digital Filter Structures ([PDF](resources/mitres_6_008s11_lec13-1))
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 13: Network Structures for Finite Impulse Response (FIR) Systems and
   Parameter Quantization Effects in Digital Filter Structures'
 uid: f571f16c-7414-6803-a56d-0a7730131c58

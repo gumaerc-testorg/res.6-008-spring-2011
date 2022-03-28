@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: Computation of the Discrete Fourier Transform, Part 3 ([PDF](resources/mitres_6_008s11_lec20-1))
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 20: Computation of the Discrete Fourier Transform, Part 3'
 uid: 040463c7-a951-ba8c-31ec-ca7c0a08d9ac
 video_files:

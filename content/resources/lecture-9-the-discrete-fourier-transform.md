@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: The Discrete Fourier Transform ([PDF](resources/mitres_6_008s11_lec09-1))
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 9: The Discrete Fourier Transform'
 uid: d4534d46-5dd7-6997-3625-f4b9450efcf6
 video_files:

@@ -5,6 +5,7 @@ file: /media/courses/res-6-008-digital-signal-processing-spring-2011/2184f79b37c
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: 3play caption file
 uid: 2184f79b-37c1-37b2-f258-441ee26e5b81

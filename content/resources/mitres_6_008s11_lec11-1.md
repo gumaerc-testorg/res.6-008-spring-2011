@@ -6,6 +6,7 @@ file: /media/courses/res-6-008-digital-signal-processing-spring-2011/818a7bf3f67
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: MITRES_6_008S11_lec11.pdf
 uid: 818a7bf3-f67a-efa0-6bca-d5fc945950d6

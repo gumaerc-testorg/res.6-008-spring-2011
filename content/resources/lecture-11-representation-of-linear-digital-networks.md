@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: Representation of Linear Digital Networks ([PDF](resources/mitres_6_008s11_lec11-1))
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 11: Representation of Linear Digital Networks'
 uid: 4702023b-32f2-77d1-7778-723243b6c058
 video_files:

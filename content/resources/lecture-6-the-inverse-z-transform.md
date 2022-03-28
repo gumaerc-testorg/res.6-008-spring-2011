@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
+parent_uid: null
 related_resources_text: The Inverse z-Transform ([PDF](resources/mitres_6_008s11_lec06-1))
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 6: The Inverse z-Transform'
 uid: fe999adf-052e-1c0f-9411-48cf68772257
 video_files:
