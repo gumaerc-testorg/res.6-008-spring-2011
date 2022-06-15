@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,11 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: Design of FIR Digital Filters (![This resource may not render
-  correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_008s11_lec17-1))
+related_resources_text: Design of FIR Digital Filters ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec17-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 17: Design of FIR Digital Filters'
 uid: 968adeab-1291-c57f-e0e6-7ac385b514d9
 video_files:
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Design of FIR filters using windows, comparison of rectangular, Bartlett, and Hamming windows, frequency sampling method of filter design, optimum equi-ripple FIR filters.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

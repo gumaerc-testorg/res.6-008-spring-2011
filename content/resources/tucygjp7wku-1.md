@@ -1,11 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-6-008-digital-signal-processing-spring-2011/3cf3faafccd8d4b9e42edc574386fecc_TuCYGjp7WKU.pdf
+file: /courses/res-6-008-digital-signal-processing-spring-2011/3cf3faafccd8d4b9e42edc574386fecc_TuCYGjp7WKU.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
-parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: 3cf3faaf-ccd8-d4b9-e42e-dc574386fecc

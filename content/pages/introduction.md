@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: This section gives an overview of course format, contents, and prerequisites.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
-parent_uid: null
 title: Introduction
 uid: d3dae78e-d927-d7ba-20e8-30bf62c90f76
 ---

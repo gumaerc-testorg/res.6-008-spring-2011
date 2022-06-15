@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,11 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: Computation of the Discrete Fourier Transform, Part 2 (![This
-  resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_008s11_lec19-1))
+related_resources_text: Computation of the Discrete Fourier Transform, Part 2 ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec19-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Computation of the Discrete Fourier Transform, Part 2'
 uid: 3293b56b-46c3-f089-0692-f41151c66665
 video_files:
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Interpretation of FFT flow graph for in-place computation, bit-reversed data ordering, other decimation-in-time FFT algorithms by rearrangement of the flow graph, decimation-in-frequency FFT algorithm.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: The Discrete-Time Fourier Transform ([PDF](resources/mitres_6_008s11_lec04-1))
+related_resources_text: The Discrete-Time Fourier Transform ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec04-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: The Discrete-Time Fourier Transform'
 uid: 2d6c677c-9194-4e76-46ce-f1245ec7b8b5
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Generalization of the frequency response representation of sequences, inverse Fourier transform relation, symmetry properties of Fourier transforms, relationship between continuous-time and discrete-time Fourier transforms.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

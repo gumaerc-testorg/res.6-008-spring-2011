@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,11 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: z-Transform Properties (![This resource may not render correctly
-  in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_008s11_lec07-1))
+related_resources_text: z-Transform Properties ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec07-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: z-Transform Properties'
 uid: e942e4e2-81ec-1133-760b-c5a48de2d8eb
 video_files:
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Geometric determination of frequency response from pole-zero patterns in the z-plane, properties of z-transforms: Scaling, differentiation, shifting, and convolution, examples of proof of properties of z-transforms.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

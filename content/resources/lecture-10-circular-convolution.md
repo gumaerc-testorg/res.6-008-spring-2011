@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: Circular Convolution ([PDF](resources/mitres_6_008s11_lec10-1))
+related_resources_text: Circular Convolution ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec10-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Circular Convolution'
 uid: beb398bc-1fe7-67e7-7ddd-11c3f1e945a1
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Circular convolution of finite length sequences, interpretation of circular convolution as linear convolution followed by aliasing, implementing linear convolution by means of circular convolution.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

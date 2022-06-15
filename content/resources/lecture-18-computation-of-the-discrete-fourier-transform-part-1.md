@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,11 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: Computation of the Discrete Fourier Transform, Part 1 (![This
-  resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](resources/mitres_6_008s11_lec18-1))
+related_resources_text: Computation of the Discrete Fourier Transform, Part 1 ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec18-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Computation of the Discrete Fourier Transform, Part 1'
 uid: b909330a-9477-2374-a9d1-25b7ebd1870a
 video_files:
@@ -28,3 +28,6 @@ video_metadata:
 **Topics covered:** Direct computation of the discrete-time Fourier transform, computation resulting from successive decimation of the sequences, the decimation-in-time form of the fast Fourier transform (FFT) algorithm, basic butterfly computation.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

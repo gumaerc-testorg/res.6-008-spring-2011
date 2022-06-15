@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,10 +10,10 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
 parent_type: SupplementalResourceSection
-parent_uid: null
-related_resources_text: The Discrete Fourier Series ([PDF](resources/mitres_6_008s11_lec08-1))
+related_resources_text: The Discrete Fourier Series ([PDF](/courses/res-6-008-digital-signal-processing-spring-2011/resources/mitres_6_008s11_lec08-1))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 8: The Discrete Fourier Series'
 uid: 95fe2f09-600c-dd29-2eb4-1e196c4d6888
 video_files:
@@ -27,3 +28,6 @@ video_metadata:
 **Topics covered:** Fourier series representation for periodic sequences, determination of Fourier series coefficients, properties of Fourier series.
 
 **Instructor:** Prof. Alan V. Oppenheim
+
+
+

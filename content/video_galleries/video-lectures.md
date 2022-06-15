@@ -1,10 +1,10 @@
 ---
 content_type: video_gallery
+description: This section contains lecture videos.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
 ocw_type: SupplementalResourceSection
-parent_uid: null
 title: Video Lectures
 uid: d9271fc3-fc70-01a8-4584-e76665b89755
 videos:
