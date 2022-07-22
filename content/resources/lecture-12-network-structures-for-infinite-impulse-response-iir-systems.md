@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Topics covered:** Basic network structures for IIR filters, direct cascade and parallel form, canonic structures, transposition theorem for digital networks and the resulting transposed forms.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

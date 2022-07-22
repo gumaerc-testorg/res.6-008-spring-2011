@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Rearrangements of the basic decimation-in-frequency algorithm, relation between decimation-in-time and decimation-in-frequency through the transposition theorem, arbitrary radix FFT algorithms.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

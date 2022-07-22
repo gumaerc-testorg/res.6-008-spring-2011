@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Generalization of Fourier transform to z-transform, relationship of Fourier transform to z-transform, region of convergence of z transforms, characteristics of region of convergence in relation to poles, zeros, stability, and causality.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Definitions of basic discrete-time signals: The unit sample, unit step, exponential and sinusoidal sequences, definitions and representations of linear time-invariant discrete-time systems, properties of discrete-time convolution.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

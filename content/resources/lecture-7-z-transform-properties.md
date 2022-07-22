@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Geometric determination of frequency response from pole-zero patterns in the z-plane, properties of z-transforms: Scaling, differentiation, shifting, and convolution, examples of proof of properties of z-transforms.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

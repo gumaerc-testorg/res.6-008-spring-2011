@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Direct computation of the discrete-time Fourier transform, computation resulting from successive decimation of the sequences, the decimation-in-time form of the fast Fourier transform (FFT) algorithm, basic butterfly computation.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

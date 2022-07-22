@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -30,6 +31,4 @@ video_metadata:
 **Topics covered:** Direct form FIR filters, efficient implementation of FIR filters with linear phase, frequency sampling structure, effects of parameter-quantization in digital filter implementation.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

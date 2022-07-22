@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Sampling and aliasing with a sinusoidal signal, sinusoidal response of a digital filter, dependence of frequency response on sampling period, periodic nature of the frequency response of a digital filter.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Generalization of the frequency response representation of sequences, inverse Fourier transform relation, symmetry properties of Fourier transforms, relationship between continuous-time and discrete-time Fourier transforms.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

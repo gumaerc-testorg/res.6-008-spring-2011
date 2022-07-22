@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Interpretation of FFT flow graph for in-place computation, bit-reversed data ordering, other decimation-in-time FFT algorithms by rearrangement of the flow graph, decimation-in-frequency FFT algorithm.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Topics covered:** Digital filter design using the bilinear transformation, frequency warping introduced by the bilinear transformation, algorithmic design procedures for IIR filters.
 
 **Instructor:** Prof. Alan V. Oppenheim
-
-
 
