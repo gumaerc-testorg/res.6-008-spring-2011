@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions for the problem statements related to
   discrete-time signals and systems, part 2.
 file: /courses/res-6-008-digital-signal-processing-spring-2011/e5aec81ae6e98b8cb64e15ac64fb12bd_MITRES_6_008S11_sol03.pdf
+file_size: 146823
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
