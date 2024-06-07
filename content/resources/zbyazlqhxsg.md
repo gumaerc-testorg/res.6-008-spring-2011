@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-6-008-digital-signal-processing-spring-2011/e6e67a49590540d902dc327322ca828c_ZbYAZLQHXSg.srt
+file_size: 51893
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
