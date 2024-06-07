@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to design of IIR digital filters,
   part 1.
 file: /courses/res-6-008-digital-signal-processing-spring-2011/ec653260d0a4e3d6684a17940eaa2df1_MITRES_6_008S11_lec14.pdf
+file_size: 281457
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
