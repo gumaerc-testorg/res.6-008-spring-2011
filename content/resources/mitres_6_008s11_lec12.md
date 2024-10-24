@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to network structures for
   infinite impulse response (IIR) systems.
-file: /courses/res-6-008-digital-signal-processing-spring-2011/ad667a5d66099a5fe823f57b4b575bbf_MITRES_6_008S11_lec12.pdf
+file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/ad667a5d66099a5fe823f57b4b575bbf_MITRES_6_008S11_lec12.pdf
 file_size: 308310
 file_type: application/pdf
 learning_resource_types: []

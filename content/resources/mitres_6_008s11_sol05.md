@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   the z-transform.
-file: /courses/res-6-008-digital-signal-processing-spring-2011/898564577897cc3920102083afc73d97_MITRES_6_008S11_sol05.pdf
+file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/898564577897cc3920102083afc73d97_MITRES_6_008S11_sol05.pdf
 file_size: 228856
 file_type: application/pdf
 learning_resource_types: []
