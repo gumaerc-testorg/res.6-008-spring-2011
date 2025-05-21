@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to introduction of digital
   signal processing.
-file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/0b1fed8c695e21f5eaea4ba3be05eb55_MITRES_6_008S11_lec01.pdf
+file: /courses/res-6-008-digital-signal-processing-spring-2011/0b1fed8c695e21f5eaea4ba3be05eb55_MITRES_6_008S11_lec01.pdf
 file_size: 65470
 file_type: application/pdf
 learning_resource_types: []

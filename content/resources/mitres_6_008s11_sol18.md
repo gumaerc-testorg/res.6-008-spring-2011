@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   computation of the discrete Fourier transform, part 1.
-file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/48b84b00529767e8eebf490808b178e4_MITRES_6_008S11_sol18.pdf
+file: /courses/res-6-008-digital-signal-processing-spring-2011/48b84b00529767e8eebf490808b178e4_MITRES_6_008S11_sol18.pdf
 file_size: 114310
 file_type: application/pdf
 learning_resource_types: []

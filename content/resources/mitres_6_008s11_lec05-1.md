@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to the z-transform.
-file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/c7f87d4cb052de4f4881ee8c3c90b8e8_MITRES_6_008S11_lec05.pdf
+file: /courses/res-6-008-digital-signal-processing-spring-2011/c7f87d4cb052de4f4881ee8c3c90b8e8_MITRES_6_008S11_lec05.pdf
 file_size: 351282
 file_type: application/pdf
 learning_resource_types: []

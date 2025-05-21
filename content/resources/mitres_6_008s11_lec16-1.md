@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to digital butterworth filters.
-file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/cf3af19ce73b9d4ffb66fcb7f8be5800_MITRES_6_008S11_lec16.pdf
+file: /courses/res-6-008-digital-signal-processing-spring-2011/cf3af19ce73b9d4ffb66fcb7f8be5800_MITRES_6_008S11_lec16.pdf
 file_size: 232821
 file_type: application/pdf
 learning_resource_types: []
