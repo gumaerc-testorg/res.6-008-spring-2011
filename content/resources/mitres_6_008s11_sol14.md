@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to the problem statements related to
   design of IIR digital filters, part 1.
-file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/3ed238b4cc54178192562d565e32e9a7_MITRES_6_008S11_sol14.pdf
+file: /courses/res-6-008-digital-signal-processing-spring-2011/3ed238b4cc54178192562d565e32e9a7_MITRES_6_008S11_sol14.pdf
 file_size: 140141
 file_type: application/pdf
 learning_resource_types: []

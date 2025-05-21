@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   digital Butterworth filters.
-file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/9b015cd43f5edfe9dc27c594022707e9_MITRES_6_008S11_sol16.pdf
+file: /courses/res-6-008-digital-signal-processing-spring-2011/9b015cd43f5edfe9dc27c594022707e9_MITRES_6_008S11_sol16.pdf
 file_size: 233082
 file_type: application/pdf
 learning_resource_types: []
