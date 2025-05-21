@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/fcd3195d698c59a2add253789cdb0556_XT6o4IRTcLk.vtt
+file: /courses/res-6-008-digital-signal-processing-spring-2011/fcd3195d698c59a2add253789cdb0556_XT6o4IRTcLk.vtt
 file_size: 52030
 file_type: application/x-subrip
 learning_resource_types: []

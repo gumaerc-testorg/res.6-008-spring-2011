@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to the discrete fourier transform.
-file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/bc8229ecb3a6d43e355279a65ee917b0_MITRES_6_008S11_lec09.pdf
+file: /courses/res-6-008-digital-signal-processing-spring-2011/bc8229ecb3a6d43e355279a65ee917b0_MITRES_6_008S11_lec09.pdf
 file_size: 338604
 file_type: application/pdf
 learning_resource_types: []
