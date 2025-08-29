@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to the discrete fourier series.
-file: /courses/res-6-008-digital-signal-processing-spring-2011/785b36fa522bbd2dea1e7834a7c26315_MITRES_6_008S11_lec08.pdf
+file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/785b36fa522bbd2dea1e7834a7c26315_MITRES_6_008S11_lec08.pdf
 file_size: 290649
 file_type: application/pdf
 learning_resource_types: []

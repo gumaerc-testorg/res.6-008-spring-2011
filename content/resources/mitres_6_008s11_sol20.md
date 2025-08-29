@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   cfomputation of the discrete Fourier part 3.
-file: /courses/res-6-008-digital-signal-processing-spring-2011/aebeb0ad0a2079bc851adc307931d38d_MITRES_6_008S11_sol20.pdf
+file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/aebeb0ad0a2079bc851adc307931d38d_MITRES_6_008S11_sol20.pdf
 file_size: 258812
 file_type: application/pdf
 learning_resource_types: []
