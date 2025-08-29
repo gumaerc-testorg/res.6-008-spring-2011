@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   the discrete-time Fourier transform.
-file: /courses/res-6-008-digital-signal-processing-spring-2011/3dc8c1e07f20ecb94dceebf358bffa60_MITRES_6_008S11_sol04.pdf
+file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/3dc8c1e07f20ecb94dceebf358bffa60_MITRES_6_008S11_sol04.pdf
 file_size: 220696
 file_type: application/pdf
 learning_resource_types: []
