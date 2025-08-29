@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the problem statements related to
   dsign of FIR digital filters.
-file: /courses/res-6-008-digital-signal-processing-spring-2011/77e21cf556f0959e80a527d2be4e2c9f_MITRES_6_008S11_sol17.pdf
+file: /ol-ocw-studio-app/courses/res-6-008-digital-signal-processing-spring-2011/77e21cf556f0959e80a527d2be4e2c9f_MITRES_6_008S11_sol17.pdf
 file_size: 150747
 file_type: application/pdf
 learning_resource_types: []
